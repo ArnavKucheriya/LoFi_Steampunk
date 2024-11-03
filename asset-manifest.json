@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArnavKucheriya/LoFi_Steampunk/static/css/main.c6a0616a.css",
+    "main.js": "/ArnavKucheriya/LoFi_Steampunk/static/js/main.9bb4fb0a.js",
+    "static/media/Border.gif": "/ArnavKucheriya/LoFi_Steampunk/static/media/Border.b49d3279d9ce01f8fa75.gif",
+    "static/media/Image1.jpg": "/ArnavKucheriya/LoFi_Steampunk/static/media/Image1.da5ffe441fb2357fccac.jpg",
+    "index.html": "/ArnavKucheriya/LoFi_Steampunk/index.html",
+    "main.c6a0616a.css.map": "/ArnavKucheriya/LoFi_Steampunk/static/css/main.c6a0616a.css.map",
+    "main.9bb4fb0a.js.map": "/ArnavKucheriya/LoFi_Steampunk/static/js/main.9bb4fb0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a0616a.css",
+    "static/js/main.9bb4fb0a.js"
+  ]
+}
